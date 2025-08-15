@@ -1,4 +1,4 @@
-# 🚀 Daily Web Design Journey — From Beginner to Master
+# 🚀 Daily Web Design Journey - From Beginner to Master
 
 Hey there! 👋  
 I'm **super excited** to start this journey where I'll be posting my **daily web design programs** - covering **HTML, CSS, and JavaScript** - starting from the absolute basics and going all the way to advanced, master-level projects.  
